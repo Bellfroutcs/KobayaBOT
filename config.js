@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6288294276026'] //ur owner number
-global.ownername = "Krisna Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
-global.ytname = "YT: ItzTopBridgTzy5" //ur yt chanel name
-global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
+global.vcardowner = ['6283816797646'] //ur owner number
+global.ownername = "Ananda DEV" //ur owner name
+global.developer = "NdaDev" //nama lu
+global.ytname = "YT: Bellfroutcs CH" //ur yt chanel name
+global.socialm = "https://instagram.com/ananda.alif.rizky" //ur github or insta name
+global.sgc = "https://chat.whatsapp.com/KGui5W4Ud4n224ZLMqR0rZ"
 global.location = "Asia/Jakarta" //ur location
 
 //bot bomdy 
-global.owner = ['6288294276026'] //ur number
-global.ownernomer = "6288294276026" //ur number
-global.ownertag = '628871744663' //ur tag number
-global.premium = ['62871744663'] //ur premium number
-global.botname = 'KrisnaBotz Update' //ur bot name
-global.ownername = "Krisna 𝘖𝘧𝘧𝘤"
-global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "628871744663"
-global.pulsa = "628871744663"
-global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
-global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
-global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Krisna Bot" //ur sticker watermark author
-global.wm = "Krisna X Jarot" //ur watermark
+global.owner = ['6283816797646'] //ur number
+global.ownernomer = "6283816797646" //ur number
+global.ownertag = '6283816797646' //ur tag number
+global.premium = ['6283816797646'] //ur premium number
+global.botname = 'Neko BOTz' //ur bot name
+global.ownername = "Ananda DEV"
+global.linkz = "https://youtube.com/@belfroutcsch9579" //your theme url which will be displayed on whatsapp
+global.dana = "083816797646"
+global.pulsa = "083816797646"
+global.websitex = "https://youtube.com/@belfroutcsch9579" //ur website to be displayed
+global.websitex1 = "https://chat.whatsapp.com/KGui5W4Ud4n224ZLMqR0rZ"
+global.botscript = 'https://youtube.com/@belfroutcsch9579' //script link
+global.themeemoji = "🐈" //ur theme emoji
+global.packname = "Neko BOTz By" //ur sticker watermark packname
+global.author = "Ananda DEV" //ur sticker watermark author
+global.wm = "NdaDev" //ur watermark
 
 // Other
 global.sessionName = 'Session'
@@ -59,7 +59,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 3
 }
 global.thum = fs.readFileSync("./Media/theme/jarot.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./Media/theme/jarot.jpg") //ur logo pic
